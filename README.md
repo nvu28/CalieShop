@@ -2,6 +2,7 @@ CalieShop
 
 Giới thiệu
 Dự án FashionShop là website bán hàng thời trang nữ được xây dựng bằng ASP.NET Web Forms.
+
 Mục tiêu: giúp người dùng có thể xem chi tiết sản phẩm, thêm vào giỏ hàng, đặt hàng và quản lý đơn hàng.
 
 Công nghệ sử dụng
@@ -18,6 +19,7 @@ Giỏ hàng (thêm sản phẩm, cập nhật số lượng, xóa sản phẩm)
 Phân quyền cơ bản (Admin/User)
 
 Cài đặt & chạy dự án
+
 1.Clone repo về máy:
 
 ```bash
