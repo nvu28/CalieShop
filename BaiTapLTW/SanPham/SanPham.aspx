@@ -43,7 +43,7 @@
   <ItemTemplate>
     <div class="product">
     <asp:HyperLink ID="hlImage" runat="server" 
-    NavigateUrl='<%# "ChiTietSP.aspx?id=" + Eval("ProductID") %>'>
+    NavigateUrl='<%# "../ChiTietSanPham/ChiTietSP.aspx?id=" + Eval("ProductID") %>'>
     <img src='<%# Eval("ImagePath") %>' alt='<%# Eval("Name") %>' />
 </asp:HyperLink>
 

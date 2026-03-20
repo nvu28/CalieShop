@@ -82,7 +82,7 @@
 </div>
 </div>
 <footer>
-  <img src="imgs/footer.png" alt="" class="footer-banner">
+  <img src="../imgs/footer.png" alt="" class="footer-banner">
 
   <div class="footer-content">
     <div class="foot1">

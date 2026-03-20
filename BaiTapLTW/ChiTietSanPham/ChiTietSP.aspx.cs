@@ -50,7 +50,7 @@ namespace BaiTapLTW
         {
             if (Session["LoggedUser"] == null)
             {
-                Response.Redirect("Login.aspx");
+                Response.Redirect("../DangNhap/Login.aspx");
                 return;
             }
 
@@ -104,7 +104,7 @@ namespace BaiTapLTW
                 return;
             }
 
-            Response.Redirect("MiniCart.aspx?pid=" + productId + "&size=" + size);
+            Response.Redirect("../GioHangNho/MiniCart.aspx?pid=" + productId + "&size=" + size);
         }
 
     }
