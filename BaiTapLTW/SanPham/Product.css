@@ -1,0 +1,230 @@
+﻿/* Header */
+header {
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+    header span {
+        font-size: 16px;
+        font-weight: lighter;
+    }
+
+#logo {
+    margin-left: 115px;
+}
+
+.right {
+    display: flex;
+}
+
+.foruser {
+    display: flex;
+    align-items: center; /* khoảng cách giữa 2 icon */
+}
+
+    .foruser a img {
+        width: 25px;
+        height: 25px; /* chỉnh kích thước icon cho đều */
+    }
+
+    .foruser a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+
+header a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+header img {
+    height: 40px;
+}
+/*body*/
+.stars {
+    font-size: 24px;
+    color: #f5a623;
+    letter-spacing: 4px;
+}
+
+.add-to-cart {
+    margin-top: 10px;
+    width: 200px;
+    padding: 5px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 30px
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    background-color: white;
+    border-radius: 6px;
+}
+
+    .product img {
+        width: 100%; /* khớp với cột */
+        height: 500px; /* chỉnh chiều cao hợp lý */
+        object-fit: cover;
+    }
+
+    .product span {
+        margin-top: 10px;
+        display: inline-block;
+        font-size: large;
+    }
+
+    .product strong {
+        margin-top: 10px;
+        color: red;
+    }
+/*footer*/
+.footer-banner {
+    width: 90%;
+    display: block;
+    margin: 30px auto 10px;
+}
+
+.footer-content {
+    width: 90%;
+    margin: 0 auto 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.foot1 {
+    flex: 1 1 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .foot1 h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        color: #333;
+        position: relative;
+    }
+
+        .foot1 h4::after {
+            content: "";
+            display: block;
+            width: 40px;
+            height: 2px;
+            background-color: #98975f;
+            margin-top: 5px;
+        }
+
+    .foot1 a {
+        text-decoration: none;
+        color: #555;
+        font-size: 14px;
+        transition: color 0.3s ease;
+    }
+
+        .foot1 a:hover {
+            color: #98975f;
+        }
+
+#help span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #98975f;
+}
+
+#help p {
+    font-size: 13px;
+    color: #666;
+    margin-top: 5px;
+}
+
+#media h4 {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333;
+}
+
+#icon {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+    #icon img {
+        width: 28px;
+        height: 28px;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+        #icon img:hover {
+            transform: scale(1.2);
+        }
+@media(max-width:768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 15px;
+        margin-left: 0;
+    }
+
+        header span {
+            font-size: 14px;
+            margin: 5px 0;
+        }
+
+    #logo {
+        margin: 10px 0;
+        height: 30px;
+    }
+
+    header img {
+        height: 30px;
+    }
+
+    .foruser {
+        margin-top: 10px;
+    }
+
+    /* Grid sản phẩm: 2 cột */
+    .grid {
+        width:50%;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .product img {
+        height: 250px;
+    }
+
+    .add-to-cart {
+        width: 100%;
+    }
+
+    .footer-banner {
+        width: 100%;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+}

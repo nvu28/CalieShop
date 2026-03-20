@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\quanlysp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\quanlysp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\quanlysp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\quanlysp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\chitietsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\chitietsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\chitietsp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\chitietsp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|c:\\users\\dell\\source\\repos\\baitapltw\\baitapltw\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|c:\\users\\dell\\source\\repos\\baitapltw\\baitapltw\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|c:\\users\\dell\\source\\repos\\baitapltw\\baitapltw\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\trangchu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\trangchu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|c:\\users\\dell\\source\\repos\\baitapltw\\baitapltw\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\minicart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\minicart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\minicart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\minicart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\baitapltw\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{820C9296-A7F2-48BC-BB5C-03538D4D0CEA}|BaiTapLTW\\BaiTapLTW.csproj|solutionrelative:baitapltw\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Admin.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Admin.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Admin.aspx",
+              "RelativeToolTip": "BaiTapLTW\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T04:06:42.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangKy.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\DangKy.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\DangKy.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\DangKy.aspx",
+              "RelativeToolTip": "BaiTapLTW\\DangKy.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T03:45:00.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietSP.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\ChiTietSP.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\ChiTietSP.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\ChiTietSP.aspx",
+              "RelativeToolTip": "BaiTapLTW\\ChiTietSP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T03:15:32.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietSP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\ChiTietSP.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\ChiTietSP.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\ChiTietSP.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\ChiTietSP.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:15:18.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Admin.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\Admin.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:07:54.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySP.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\QuanLySP.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\QuanLySP.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\QuanLySP.aspx",
+              "RelativeToolTip": "BaiTapLTW\\QuanLySP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T04:15:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLySP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\QuanLySP.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\QuanLySP.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\QuanLySP.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\QuanLySP.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:16:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Login.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\Login.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:41:30.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Login.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Login.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Login.aspx",
+              "RelativeToolTip": "BaiTapLTW\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T03:36:56.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\SanPham.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\SanPham.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\SanPham.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\SanPham.aspx.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv1IAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:04:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Home.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Home.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Home.aspx",
+              "RelativeToolTip": "BaiTapLTW\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-19T10:17:36.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPham.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\SanPham.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\SanPham.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\SanPham.aspx",
+              "RelativeToolTip": "BaiTapLTW\\SanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T02:55:35.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Cart.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Cart.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Cart.aspx",
+              "RelativeToolTip": "BaiTapLTW\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T03:56:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Cart.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\Cart.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:58:22.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Home.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:37:22.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\Home.aspx.designer.cs",
+              "RelativeToolTip": "BaiTapLTW\\Home.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:37:58.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangKy.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\DangKy.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\DangKy.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\DangKy.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\DangKy.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:45:10.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrangChu.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\TrangChu.js",
+              "RelativeDocumentMoniker": "BaiTapLTW\\TrangChu.js",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\TrangChu.js",
+              "RelativeToolTip": "BaiTapLTW\\TrangChu.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-21T02:50:51.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrangChu.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\TrangChu.css",
+              "RelativeDocumentMoniker": "BaiTapLTW\\TrangChu.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\TrangChu.css",
+              "RelativeToolTip": "BaiTapLTW\\TrangChu.css",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T11:27:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MiniCart.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\MiniCart.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\MiniCart.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\MiniCart.aspx",
+              "RelativeToolTip": "BaiTapLTW\\MiniCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T04:20:58.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MiniCart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\MiniCart.aspx.cs",
+              "RelativeDocumentMoniker": "BaiTapLTW\\MiniCart.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\MiniCart.aspx.cs",
+              "RelativeToolTip": "BaiTapLTW\\MiniCart.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:21:05.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogOut.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\LogOut.aspx",
+              "RelativeDocumentMoniker": "BaiTapLTW\\LogOut.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\BaiTapLTW\\BaiTapLTW\\LogOut.aspx",
+              "RelativeToolTip": "BaiTapLTW\\LogOut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-21T03:41:26.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

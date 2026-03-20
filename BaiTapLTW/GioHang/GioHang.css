@@ -1,0 +1,206 @@
+﻿.product-card {
+    display: flex;
+    gap: 100px;
+    max-width: 500px;
+    margin: 10px auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #fff;
+}
+
+.product-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product-img {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.details h2 {
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.price {
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.quantity-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+    margin-right: 30px;
+}
+
+    .quantity-block label {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+.quantity {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+    .quantity button,
+    .qty-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+        border: none;
+        background: white;
+        cursor: pointer;
+    }
+
+    .quantity input,
+    .qty-box {
+        width: 50px;
+        height: 40px;
+        text-align: center;
+        border: none;
+        font-size: 16px;
+    }
+
+
+.promotions {
+    margin-bottom: 15px;
+}
+
+.promo {
+    background: #f9f9f9;
+    padding: 10px;
+    border-left: 4px solid orange;
+    margin-bottom: 10px;
+}
+
+    .promo .label {
+        font-weight: bold;
+        color: orange;
+        margin-right: 8px;
+    }
+
+.color-select {
+    margin-bottom: 15px;
+}
+
+.color {
+    background: #000;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.summary {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px 20px;
+    margin: 10px auto; /* căn giữa giống .product-card */
+    max-width: 800px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+
+    .summary p {
+        font-size: 16px;
+        margin: 5px 0;
+    }
+
+.total {
+    color: red;
+    font-weight: bold;
+}
+
+.panel {
+    display: flex;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 30px auto;
+    align-items: flex-start;
+}
+
+.leftpanel {
+    flex: 2;
+}
+
+.right-panel {
+    margin-top: 10px;
+    flex: 1;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+    .right-panel h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+.note {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 20px;
+}
+
+.right-panel form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.right-panel input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+.confirm-btn {
+    background: linear-gradient(to bottom, #2e9c7f, #1f7d63);
+    color: white;
+    font-weight: bold;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+}
+
+    .confirm-btn:hover {
+        background: linear-gradient(to bottom, #1f7d63, #2e9c7f);
+    }
+.clicksize button {
+    background-color: #f5f5f5;
+    border-radius: 50%; /* bo tròn tuyệt đối */
+    border: none;
+    width: 50px; /* chiều rộng cố định */
+    height: 50px; /* chiều cao bằng chiều rộng */
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+
+    .clicksize button:hover {
+        background-color: #98975f;
+    }
+
+.btsize {
+    margin-top: 15px;
+}

@@ -1,0 +1,350 @@
+﻿header {
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+    header span {
+        font-size: 16px;
+        font-weight: lighter;
+    }
+
+#logo {
+    margin-left: 115px;
+}
+
+.right {
+    display: flex;
+}
+
+.foruser {
+    display: flex;
+    align-items: center; /* khoảng cách giữa 2 icon */
+}
+
+    .foruser a img {
+        width: 25px;
+        height: 25px; /* chỉnh kích thước icon cho đều */
+    }
+
+    .foruser a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+
+header a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+header img {
+    height: 40px;
+}
+/*body*/
+.body {
+    margin-top: 50px;
+    margin-left: 75px;
+    display: flex;
+    gap: 20px;
+}
+
+    .body img {
+        width: 650px;
+        height: 1000px;
+    }
+
+.descrip {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .descrip h3 {
+        font-size: larger;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    .descrip strong {
+        width: 400px;
+        display: inline-block;
+        font-size: xx-large;
+        background-color: #efeadd; /* màu xám nhạt */
+        padding: 10px;
+        color: black; /* chữ đỏ giữ nguyên */
+        margin: 10px 0;
+    }
+
+    .descrip span {
+        font-size: large;
+    }
+
+.clicksize button {
+    background-color: #f5f5f5;
+    border-radius: 50%; /* bo tròn tuyệt đối */
+    border: none;
+    width: 50px; /* chiều rộng cố định */
+    height: 50px; /* chiều cao bằng chiều rộng */
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+
+    .clicksize button:hover {
+        background-color: #98975f;
+    }
+
+.btsize {
+    margin-top: 15px;
+}
+
+.add-to-cart {
+    margin-top: 10px;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+    .add-to-cart span {
+        font-size: large;
+        font-weight: lighter;
+    }
+
+.buy {
+    width: 500px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #98975f;
+}
+
+    .buy span {
+        color: whitesmoke;
+        font-size: large;
+    }
+/*footer*/
+.footer-banner {
+    width: 90%;
+    display: block;
+    margin: 40px auto 10px;
+}
+
+.footer-content {
+    width: 90%;
+    margin: 0 auto 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.foot1 {
+    flex: 1 1 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .foot1 h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        color: #333;
+        position: relative;
+    }
+
+        .foot1 h4::after {
+            content: "";
+            display: block;
+            width: 40px;
+            height: 2px;
+            background-color: #98975f;
+            margin-top: 5px;
+        }
+
+    .foot1 a {
+        text-decoration: none;
+        color: #555;
+        font-size: 14px;
+        transition: color 0.3s ease;
+    }
+
+        .foot1 a:hover {
+            color: #98975f;
+        }
+
+#help span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #98975f;
+}
+
+#help p {
+    font-size: 13px;
+    color: #666;
+    margin-top: 5px;
+}
+
+#media h4 {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333;
+}
+
+#icon {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+    #icon img {
+        width: 28px;
+        height: 28px;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+        #icon img:hover {
+            transform: scale(1.2);
+        }
+/* Tablet và mobile */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 15px;
+        margin-left: 0;
+    }
+
+        header span {
+            font-size: 14px;
+            margin: 5px 0;
+        }
+
+    #logo {
+        margin: 10px 0;
+        height: 30px;
+    }
+
+    header img {
+        height: 30px;
+    }
+
+    .foruser {
+        margin-top: 10px;
+    }
+
+    /* Body: xếp dọc thay vì ngang */
+    .body {
+        flex-direction: column;
+        margin: 20px auto;
+        gap: 20px;
+    }
+
+        .body img {
+            width: 100%;
+            height: auto;
+        }
+
+    .descrip strong {
+        width: 100%;
+        font-size: 20px;
+    }
+
+    .add-to-cart,
+    .buy {
+        width: 100%;
+    }
+
+    .clicksize button {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .footer-banner {
+        width: 100%;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+/* Mobile nhỏ */
+@media (max-width: 768px) {
+    header {
+        flex-direction: row; /* giữ ngang */
+        justify-content: space-between; /* chia đều khoảng cách */
+        align-items: center;
+        padding: 10px 15px;
+        margin-left: 0;
+    }
+
+        header a {
+            font-size: 14px;
+            margin: 0 5px;
+        }
+
+    #logo {
+        margin: 0;
+        height: 30px;
+    }
+
+    header img {
+        height: 30px;
+    }
+
+    .foruser {
+        margin-top: 0;
+        display: flex;
+        gap: 5px;
+    }
+
+    .body {
+        flex-direction: column; /* phần chi tiết sản phẩm xếp dọc */
+        margin: 20px auto;
+        gap: 20px;
+    }
+
+        .body img {
+            width: 100%;
+            height: auto;
+        }
+
+    .descrip strong {
+        width: 100%;
+        font-size: 20px;
+        padding: 8px;
+    }
+
+    .clicksize button {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .add-to-cart,
+    .buy {
+        width: 100%;
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    .footer-banner {
+        width: 100%;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+

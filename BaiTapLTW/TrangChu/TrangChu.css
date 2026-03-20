@@ -1,0 +1,261 @@
+﻿/* Header */
+header {
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+    header span {
+        font-size: 16px;
+        font-weight: lighter;
+    }
+
+#logo {
+    margin-left: 115px;
+}
+
+.right {
+    display: flex;
+}
+
+.foruser {
+    display: flex;
+    align-items: center; /* khoảng cách giữa 2 icon */
+}
+
+    .foruser a img {
+        width: 25px;
+        height: 25px; /* chỉnh kích thước icon cho đều */
+    }
+
+    .foruser a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+
+header a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+header img {
+    height: 40px;
+}
+/*body*/
+.body1 img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.multi-carousel-wrapper {
+    width: 90%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.multi-carousel {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
+.multi-carousel-track {
+    gap: 10px;
+    display: flex;
+    transition: transform 0.8s ease-in-out;
+}
+
+    .multi-carousel-track img {
+        flex: 0 0 25%;
+        height: 500px;
+        object-fit: cover;
+    }
+
+/**/
+.carousel-wrapper {
+    width: 90%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+    .carousel-wrapper h2 {
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+.carousel {
+    overflow: hidden;
+    width: 100%;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.carousel-track {
+    display: flex;
+    width: max-content;
+    animation: scrollCarousel 30s linear infinite;
+}
+
+    .carousel-track img {
+        width: 300px;
+        height: 450px;
+        object-fit: cover;
+        margin-right: 10px;
+    }
+
+/* Animation trượt trái */
+@keyframes scrollCarousel {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.footer-banner {
+    width: 90%;
+    display: block;
+    margin: 30px auto 10px;
+}
+
+.footer-content {
+    width: 90%;
+    margin: 0 auto 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.foot1 {
+    flex: 1 1 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .foot1 h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        color: #333;
+        position: relative;
+    }
+
+        .foot1 h4::after {
+            content: "";
+            display: block;
+            width: 40px;
+            height: 2px;
+            background-color: #98975f;
+            margin-top: 5px;
+        }
+
+    .foot1 a {
+        text-decoration: none;
+        color: #555;
+        font-size: 14px;
+        transition: color 0.3s ease;
+    }
+
+        .foot1 a:hover {
+            color: #98975f;
+        }
+
+#help span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #98975f;
+}
+
+#help p {
+    font-size: 13px;
+    color: #666;
+    margin-top: 5px;
+}
+
+#media h4 {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333;
+}
+
+#icon {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+    #icon img {
+        width: 28px;
+        height: 28px;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+        #icon img:hover {
+            transform: scale(1.2);
+        }
+       
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 15px;
+        margin-left: 0;
+    }
+
+        header a {
+            font-size: 14px;
+            margin: 5px 0;
+        }
+
+    #logo {
+        margin: 10px 0;
+        height: 30px;
+    }
+
+    header img {
+        height: 30px;
+    }
+
+    .foruser {
+        margin-top: 10px;
+    }
+
+    .body1 img {
+        width: 100%;
+        height: auto;
+    }
+
+    .carousel-track img {
+        width: 150px;
+        height: 220px;
+    }
+
+    .multi-carousel-track img {
+        flex: 0 0 50%; /* mỗi ảnh chiếm nửa chiều ngang */
+        height: 250px;
+    }
+
+    .footer-banner {
+        width: 100%;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .foot1 {
+        flex: 1 1 auto;
+    }
+}
